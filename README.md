@@ -26,12 +26,31 @@ The application should open in `localhost:3000`
 
 ### Server
 
-Next, we need to start-up the server. In order to do so, you will need [python](https://www.python.org/downloads/) installed on your machine.
+Next, we need to start-up the server. In order to do so, you will need the following dependencies installed on your machine:
 
-Once you have all dependencies installed, you can start the flask server by running the following from `/server`:
+- [python](https://www.python.org/downloads/)
+- [pipenv](https://pypi.org/project/pipenv/)
+- [pip](https://pip.pypa.io/en/stable/)
+
+Once you have all dependencies installed, you can start the server.
+
+To start, from the root of the project run:
 
 ```
+pipenv shell
+```
+
+Then, once the virtual environment has started, you can install all dependenies from `requirements.txt`:
+
+```
+pip3 install -r requirements.txt
+```
+
+Finally, you can start the server:
+
+```
+cd /server
 python3 app.py
 ```
 
-Now, you can visit `localhost:3000` in your browser and start shortening your URLs.
+Now, you can visit `localhost:3000` in your browser and start shortening your URLs!
