@@ -2,7 +2,7 @@
 
 This is a simple application with two main functiona. The shorten functionality will shorten any user-provided URL. The lengthen functionality will retrieve the original URL when you input the shortened version.
 
-<img width="723" alt="Screen Shot 2024-08-19 at 12 00 55 AM" src="https://github.com/user-attachments/assets/3f5aebe5-8641-44d8-acd3-3ffb6ffd1953">
+<center><img width="723" alt="Screen Shot 2024-08-19 at 12 00 55 AM" src="https://github.com/user-attachments/assets/3f5aebe5-8641-44d8-acd3-3ffb6ffd1953"></center>
 
 ## Getting Started
 
