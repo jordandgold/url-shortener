@@ -2,6 +2,8 @@
 
 This is a simple application with two main functiona. The shorten functionality will shorten any user-provided URL. The lengthen functionality will retrieve the original URL when you input the shortened version.
 
+<img width="723" alt="Screen Shot 2024-08-19 at 12 00 55 AM" src="https://github.com/user-attachments/assets/3f5aebe5-8641-44d8-acd3-3ffb6ffd1953">
+
 ## Getting Started
 
 There are two main directories in this repository: the `/client` code and the `/server` code. You will need to start both to run the application on your local machine.
