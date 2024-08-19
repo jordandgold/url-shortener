@@ -8,7 +8,9 @@ There are two main directories in this repository: the `client` code and the `se
 
 ### Client
 
-First, we need to install all dependencies from the `/client` directory:
+The client is a simple react typescript application. This was quickly generated using the `create-react-app` scripts.
+
+To get started, we first need to install all dependencies from the `/client` directory:
 
 ```
 npm install
